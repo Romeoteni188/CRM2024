@@ -52,10 +52,10 @@ if (!isset($_GET["busqueda"]) || empty($_GET["busqueda"])) {
             <thead>
 
                 <tr>
-                    <th>Nombre</th>
-                    <th>Departamento</th>
-                    <th>Edad</th>
-                    <th>Fecha de registro</th>
+                    <th>Nombres</th>
+                    <th>Departamentos</th>
+                    <th>Edades</th>
+                    <th>Fecha de registros</th>
                     <th>Dashboard</th>
                     <th>Editar</th>
                     <th>Eliminar</th>
